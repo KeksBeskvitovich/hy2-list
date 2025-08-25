@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": ["2ip.io"],
+      "domain_suffix": [".youtube.com", ".discord.com"]
+    }
+  ]
+}
