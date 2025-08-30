@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": ["2ip.io"],
-      "domain_suffix": ["chatgpt.com", "openai.com", "oaistatic.com"]
+      "domain_suffix": ["chatgpt.com", "openai.com", "oaistatic.com", "claude.ai"]
     }
   ]
 }
